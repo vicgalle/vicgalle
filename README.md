@@ -5,6 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gallego-alcala-679b18116/)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:vgallegoalcala@gmail.com)
 
+- 🔭 I'm a machine learning researcher with interests in Bayesian statistics, language models and zero-shot learning.
+- 🌱 I also co-founded [Komorebi AI](https://komorebi.ai/), devoted to creating machine learning solutions that are highly personalized to our users.
+- 🖼 I'm also committed to bridging the gap between AI and the arts, developing projects such as this [explorer](https://dev.komorebi.ai/art-explorer/).
+
 <!--
 **vicgalle/vicgalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
