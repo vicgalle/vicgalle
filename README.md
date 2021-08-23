@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:vgallegoalcala@gmail.com)
 
 - 🔭 I'm a machine learning researcher with interests in Bayesian statistics, language models and zero-shot learning.
-- 🌱 I also co-founded [Komorebi AI](https://komorebi.ai/), devoted to creating machine learning solutions that are highly personalized to our users.
+- 🌱 I also co-founded [Komorebi AI](https://komorebi.ai/), devoted to creating machine learning solutions that are highly personalized to our customers.
 - 🖼 I'm also committed to bridging the gap between AI and the arts, developing projects such as this [explorer](https://dev.komorebi.ai/art-explorer/).
 
 <!--
