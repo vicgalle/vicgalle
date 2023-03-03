@@ -10,7 +10,7 @@
 
 - 🔭 I'm a machine learning researcher with interests in Bayesian statistics, language models and zero-shot learning.
 - 🌱 I also co-founded [Komorebi AI](https://komorebi.ai/), devoted to creating machine learning solutions that are highly personalized to our customers.
-- 🖼 I'm also committed to bridging the gap between AI and the arts, developing projects such as this [explorer](http://art-explorer.komorebi.ai).
+- 🖼 I'm also committed to bridging the gap between AI and the arts, developing projects such as this [explorer](https://art-explorer.komorebi.ai).
 
 <!--
 **vicgalle/vicgalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
