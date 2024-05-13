@@ -1,4 +1,4 @@
-![ukiyo-e](https://user-images.githubusercontent.com/17426452/117540471-f10b9c00-b00f-11eb-9faa-32832f5534cb.png)
+![image-2](https://github.com/vicgalle/vicgalle/assets/17426452/a0d5bc4b-ba1f-4c5f-8823-245d3c5e0f27)
 
 ### Hey there, you found me 👋
 
