@@ -1,4 +1,6 @@
-![image-2](https://github.com/vicgalle/vicgalle/assets/17426452/a0d5bc4b-ba1f-4c5f-8823-245d3c5e0f27)
+<p align="center">
+  <img src="https://github.com/vicgalle/vicgalle/assets/17426452/a0d5bc4b-ba1f-4c5f-8823-245d3c5e0f27">
+</p>
 
 ### Hey there, you found me 👋
 
